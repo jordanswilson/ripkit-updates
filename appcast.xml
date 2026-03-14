@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>RipKit Updates</title>
+        <language>en</language>
+        <!-- Paste new <item> entries here, newest first.
+             Generate entries with: ./generate-appcast-entry.sh <dmg-path> <download-url> -->
+    </channel>
+</rss>
