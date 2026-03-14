@@ -10,7 +10,7 @@
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/jordanswilson/RipKit/releases/download/v1.0.0/RipKit-1.0.0.dmg"
+                url="https://github.com/jordanswilson/ripkit-updates/releases/download/v1.0.0/RipKit-1.0.0.dmg"
                 sparkle:edSignature="gBg4nvxtH6q93J+BLqVQ51gR2imq243odmJiCat0+Z4yt2I8vgZ6ey0886m42/VeoJ7AKk9tU5UX6BEO0ZZVCw==" length="5439085"
                 type="application/octet-stream"
             />
