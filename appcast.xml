@@ -5,13 +5,13 @@
         <language>en</language>
         <item>
             <title>Version 1.1.0</title>
-            <pubDate>Mon, 16 Mar 2026 10:55:09 -0400</pubDate>
+            <pubDate>Mon, 16 Mar 2026 16:11:18 -0400</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/jordanswilson/ripkit-updates/releases/download/v1.1.0/RipKit-1.1.0.dmg"
-                sparkle:edSignature="3NzAThQQo676zh7m+hfV1gXA2BKGQ5R5/G7rCRXFDfULcQROLbKEMOHkJs3/LSNT5f8dBH5kTktHMwgdRelYBg==" length="5386965"
+                sparkle:edSignature="wBMLu78WfZ/+wnUwqKudnmdthfKKl566GK2ticY3wGhUZqdC78shBOODER7chA5lyWWP1qgtFWH6nrcfaw5ZDw==" length="5493268"
                 type="application/octet-stream"
             />
         </item>
